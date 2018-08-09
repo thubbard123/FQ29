@@ -9,7 +9,7 @@
       Link="/Content/A_Introduction Topics/WhatsNew.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/MoreInformation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      Link="/Content/A_Introduction Topics/More.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
